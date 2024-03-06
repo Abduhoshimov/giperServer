@@ -4,32 +4,38 @@
     {
       "id": 1,
       "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/phone_category.png",
-      "text": "Смартфоны и планшеты"
+      "text": "Смартфоны и планшеты",
+      "name": "tel"
     },
     {
       "id": 2,
       "img": "https://github.com/developerdamirbek/Gipermart_images/blob/main/products/laptop_category.png?raw=true",
-      "text": "Ноутбуки"
+      "text": "Ноутбуки",
+      "name": "notebook"
     },
     {
       "id": 3,
       "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/avto_category.png",
-      "text": "Авто мото товары"
+      "text": "Авто мото товары",
+      "name": "steeringWheel"
     },
     {
       "id": 4,
       "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/game_category.png",
-      "text": "Компьютеры для геймеров"
+      "text": "Компьютеры для геймеров",
+      "name": "computers"
     },
     {
       "id": 5,
       "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/home_category.png",
-      "text": "Бытовая техника"
+      "text": "Бытовая техника",
+      "name": "washingM"
     },
     {
       "id": 6,
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/brend/sport.png",
-      "text": "Спорт"
+      "text": "Спорт",
+      "name": "sport"
     }
   ],
   "banners": [
