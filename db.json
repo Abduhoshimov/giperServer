@@ -315,6 +315,15 @@
       "id": 49
     },
     {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
+      "title": "Samsung Galaxy A05",
+      "rame": "4/64 GB",
+      "color": "Black",
+      "brand": "Samsung",
+      "price": "1 700 000",
+      "id": 52
+    },
+    {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
       "title": "Apple iPhone 15 Pro Max",
       "rame": "1 TB",
@@ -331,24 +340,6 @@
       "brand": "iPhone",
       "price": "18 604 000",
       "id": 51
-    },
-    {
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
-      "title": "Samsung Galaxy A05",
-      "rame": "4/64 GB",
-      "color": "Black",
-      "brand": "Samsung",
-      "price": "1 700 000",
-      "id": 52
-    },
-    {
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone3.jpg",
-      "title": "Xiaomi Redmi Note 11S",
-      "rame": "6/128 GB",
-      "color": "Graphite Gray",
-      "brand": "Xiaomi",
-      "price": "1 732 000",
-      "id": 53
     }
   ],
   "sport": [
