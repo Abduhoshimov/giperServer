@@ -25,6 +25,11 @@
       "id": 5,
       "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/home_category.png",
       "text": "Бытовая техника"
+    },
+    {
+      "id": 6,
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/brend/sport.png",
+      "text": "Спорт"
     }
   ],
   "banners": [
