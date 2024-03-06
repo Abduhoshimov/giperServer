@@ -26,6 +26,20 @@
       "text": "Бытовая техника"
     }
   ],
+  "banners": [
+    {
+      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/banner_img.png",
+      "id": 50
+    },
+    {
+      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/banner_img.png",
+      "id": 51
+    },
+    {
+      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/banner_img.png",
+      "id": 52
+    }
+  ],
   "tel": [
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img1.jpg",
