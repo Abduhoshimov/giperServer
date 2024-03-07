@@ -52,6 +52,20 @@
       "id": 52
     }
   ],
+  "ads": [
+    {
+      "id": 297,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/ads_img1.png"
+    },
+    {
+      "id": 298,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/ads_img2.png"
+    },
+    {
+      "id": 299,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/ads_img3.png"
+    }
+  ],
   "tel": [
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
