@@ -54,84 +54,69 @@
   ],
   "brand": [
     {
-      "id": 6,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand1.png",
-      "title": "WMF"
+      "id": 700,  
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-asus.png",
+      "brand": "Asus"
     },
     {
-      "id": 7,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand2.png",
-      "title": "Oppo"
+      "id": 701,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-hp.png",
+      "brand": "HP"
     },
     {
-      "id": 8,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand3.png",
-      "title": "Samsung"
+      "id": 702,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-lenovo.jpg",
+      "brand": "Lenovo"
     },
     {
-      "id": 9,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand4.png",
-      "title": "Tefal"
+      "id": 704,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-samsung.png",
+      "brand": "Samsung"
     },
     {
-      "id": 10,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand5.png",
-      "title": "Apple"
+      "id": 705,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-msi.png",
+      "brand": "MSI"
     },
     {
-      "id": 11,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand6.png",
-      "title": "Honor"
+      "id": 706,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-acer.png",
+      "brand": "Acer"
     },
     {
-      "id": 12,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand7.png",
-      "title": "Whirlpool"
+      "id": 707,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-apple.png",
+      "brand": "Apple"
     },
     {
-      "id": 13,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand8.png",
-      "title": "logitech"
+      "id": 708,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-redmi.png",
+      "brand": "Xiaomi"
     },
     {
-      "id": 14,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand9.png",
-      "title": "hp"
+      "id": 709,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-midea.jpg",
+      "brand": "Midea"
     },
     {
-      "id": 15,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand10.png",
-      "title": "LG"
+      "id": 710,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-shivaki.jpg",
+      "brand": "Shivaki"
     },
     {
-      "id": 16,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand11.png",
-      "title": "HUAWEI"
+      "id": 711,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-artel.jpg",
+      "brand": "Artel"
     },
     {
-      "id": 17,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand12.png",
-      "title": "MI"
+      "id": 712,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-mercedes.png",
+      "brand": "Mercedes"
     },
     {
-      "id": 18,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand13.png",
-      "title": "BOSCH"
-    },
-    {
-      "id": 19,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand14.png",
-      "title": "Haier"
-    },
-    {
-      "id": 20,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand15.png",
-      "title": "SONY"
-    },
-    {
-      "id": 20,
-      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/brand16.png",
-      "title": "Kitchen"
+      "id": 713,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-chevrolet.jpg",
+      "brand": "Chevrolet"
     }
   ],
   "ads": [
