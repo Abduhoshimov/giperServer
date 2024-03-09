@@ -424,7 +424,6 @@
     }
   ],
   "sport": [
-    "brand": "Mercedes",
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img1.jpg",
       "title": "Беговая дорожка CF-6-4",
@@ -1521,15 +1520,6 @@
     {
       "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/banner_img.png",
       "id": 52
-    },
-    {
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img1.jpg",
-      "title": "Samsung Galaxy A05",
-      "rame": "4/128 GB",
-      "color": "Black",
-      "brand": "Samsung",
-      "price": "2 100 000",
-      "id": 20
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
